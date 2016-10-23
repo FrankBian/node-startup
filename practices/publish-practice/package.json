@@ -10,7 +10,7 @@
 	},
 	"repository":{
 		"type":"git",
-		"url":"https://github.com/FrankBian/node-startup/tree/master/node-practice"
+		"url":"https://github.com/FrankBian/node-startup/tree/master/practices/publish-practice"
 	},
 	"keywords":[
 		"censor","words"
