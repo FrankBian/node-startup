@@ -1,0 +1,11 @@
+{
+	"author":"Frank Bian",
+	"name":"censorify",
+	"version":"0.1.1",
+	"description":"Censor word out of text",
+	"main":"censortext.js",
+	"dependencies":{},
+	"engines":{
+		"node":"*"
+	}
+}
