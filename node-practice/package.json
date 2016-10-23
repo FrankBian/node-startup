@@ -7,5 +7,12 @@
 	"dependencies":{},
 	"engines":{
 		"node":"*"
-	}
+	},
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/FrankBian/node-startup/tree/master/node-practice"
+	},
+	"keywords":[
+		"censor","words"
+	]
 }
